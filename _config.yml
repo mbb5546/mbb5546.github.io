@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 title: MBB5546's Homepage
 description: Inside the Mind of a Junior Penetration Tester
+include: _layouts
